@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+    <ui:style>
+		.important {
+			font-weight: bold;
+		}
+
+		.contacts-ListMenu {
+			background-color: #D0E4F6;
+			padding-bottom: 6px;
+		}
+
+		.contacts-ListContainer {
+			padding-right: 50px;
+		}
+                
+    </ui:style>
+    <g:DockLayoutPanel ui:field="parantPanel">
+        <g:north size='70'>
+            <g:HTMLPanel>
+                <div id="top_bar" width="80%">
+                    <div class="toolBar-Header">
+                        <div style="float: left; text-align: center; width: 95%;">
+                            <center>
+                                <b>
+                                <g:Label ui:field="label"/>
+                                </b>
+                            </center>
+                        </div>
+                        <div  style="float: right; width: 5%;">
+                            <g:Anchor ui:field="anchor" >Sign Out</g:Anchor>
+                        </div>
+                    </div>
+                    <div style="background: lightBlue none repeat scroll 0% 0%; color: lightBlue; height: 2px;">
+                        <hr style='display: none;'></hr>
+                    </div>
+                    <div align="center">
+                        <h2>Scheduling Console</h2>
+                    </div>
+                </div>
+            </g:HTMLPanel>
+        </g:north>
+        <g:center>
+            <g:VerticalPanel ui:field="westPanel" width="100%">
+            </g:VerticalPanel>
+        </g:center>
+<!--        <g:south size='20'>
+            <g:HTMLPanel>
+                <div id="footer" align="center">
+                    <span >Copyright 2010</span>
+                </div>
+
+            </g:HTMLPanel>
+
+        </g:south>-->
+    </g:DockLayoutPanel>
+</ui:UiBinder> 

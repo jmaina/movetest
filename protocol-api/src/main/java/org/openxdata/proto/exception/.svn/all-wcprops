@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/protocol-api/src/main/java/org/openxdata/proto/exception
+END
+ProtocolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/protocol-api/src/main/java/org/openxdata/proto/exception/ProtocolException.java
+END
+ProtocolInstantiationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/protocol-api/src/main/java/org/openxdata/proto/exception/ProtocolInstantiationException.java
+END
+ProtocolNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/protocol-api/src/main/java/org/openxdata/proto/exception/ProtocolNotFoundException.java
+END

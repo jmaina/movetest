@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/util
+END
+WidgetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/util/WidgetUtil.java
+END
+UUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/util/UUID.java
+END
+CronEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/util/CronEntity.java
+END
+CronExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/util/CronExpressionParser.java
+END

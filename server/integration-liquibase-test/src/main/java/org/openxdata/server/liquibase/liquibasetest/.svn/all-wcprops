@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/java/org/openxdata/server/liquibase/liquibasetest
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/java/org/openxdata/server/liquibase/liquibasetest/Main.java
+END
+SpringLiquibaseUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/java/org/openxdata/server/liquibase/liquibasetest/SpringLiquibaseUpdater.java
+END
+SpringFileOpener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/java/org/openxdata/server/liquibase/liquibasetest/SpringFileOpener.java
+END
+TestLiquibase.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/java/org/openxdata/server/liquibase/liquibasetest/TestLiquibase.java
+END

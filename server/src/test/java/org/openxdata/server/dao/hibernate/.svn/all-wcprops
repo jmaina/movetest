@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/dao/hibernate
+END
+HibernateEditableDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/dao/hibernate/HibernateEditableDAOTest.java
+END
+HibernateStudyManagerDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/dao/hibernate/HibernateStudyManagerDAOTest.java
+END

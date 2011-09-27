@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/4957/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared
+END
+OParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/OParameter.java
+END
+OSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/OSpecification.java
+END
+GWTFriendlyWorkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/GWTFriendlyWorkItem.java
+END
+OTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/OTask.java
+END
+DBSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/DBSpecification.java
+END
+DBSpecStudyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/DBSpecStudyMap.java
+END
+DBWorkitem.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/DBWorkitem.java
+END
+SpecStudyMapDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/SpecStudyMapDTO.java
+END
+OSpecificationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4933/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/OSpecificationData.java
+END
+WorkItemQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4957/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/WorkItemQuestion.java
+END
+ODecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/modules/workflows/model/shared/ODecomposition.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms
+END
+OpenXDataAbstractJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/OpenXDataAbstractJob.java
+END
+SmsProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/SmsProcessor.java
+END
+FormSmsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/FormSmsParser.java
+END
+FormSmsTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/FormSmsTask.java
+END
+WapPushSms.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/WapPushSms.java
+END
+FormSmsServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/FormSmsServer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/sms/package.html
+END

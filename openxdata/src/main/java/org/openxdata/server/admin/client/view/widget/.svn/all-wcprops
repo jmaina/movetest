@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget
+END
+OpenXDataButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/OpenXDataButton.java
+END
+CompositeTreeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/CompositeTreeItem.java
+END
+TreeItemWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/TreeItemWidget.java
+END
+OpenXDataLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/OpenXDataLabel.java
+END
+OpenXDataStackPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/OpenXDataStackPanel.java
+END
+OpenXDataFlexTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/OpenXDataFlexTable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/widget/package.html
+END

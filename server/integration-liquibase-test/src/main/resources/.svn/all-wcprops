@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/resources
+END
+MYSQL_SETTINGS.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/resources/MYSQL_SETTINGS.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/resources/applicationContext.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/integration-liquibase-test/src/main/resources/log4j.xml
+END

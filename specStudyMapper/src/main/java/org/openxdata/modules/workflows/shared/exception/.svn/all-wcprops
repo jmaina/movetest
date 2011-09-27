@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/shared/exception
+END
+TypeMisMatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/shared/exception/TypeMisMatchException.java
+END
+IncompleteMapException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/shared/exception/IncompleteMapException.java
+END

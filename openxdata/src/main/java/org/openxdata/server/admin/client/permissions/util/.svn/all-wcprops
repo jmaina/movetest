@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/permissions/util
+END
+RolesListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/permissions/util/RolesListUtil.java
+END
+RolesMappingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/permissions/util/RolesMappingUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/permissions/util/package.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/5057/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model
+END
+MQuestionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/5057/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MQuestionMap.java
+END
+MWorkItemDataList.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MWorkItemDataList.java
+END
+WFRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/WFRequest.java
+END
+MWorkItemInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MWorkItemInfoList.java
+END
+RepeatQuestionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/5057/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/RepeatQuestionMap.java
+END
+MWorkItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MWorkItemData.java
+END
+MWorkItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MWorkItemInfo.java
+END
+MWorkItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MWorkItemList.java
+END
+MWorkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4964/Server/branches/wf-intergration/openxdata/wf-mobile-model/src/main/java/org/openxdata/workflow/mobile/model/MWorkItem.java
+END

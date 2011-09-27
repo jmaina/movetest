@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!--
+    Document   : BirthReport.hbm.xml.xml
+    Created on : July 8, 2011, 11:25 AM
+    Author     : jmaina
+    Description:
+        Purpose of the document follows.
+-->
+<hibernate-mapping package="org.openxdata.modules.moveit.server.model" >
+  <class name="BirthReport" table="birth_report">
+    <id column="birthreport_id" name="birthReportId" type="int" unsaved-value="0">
+      <generator class="native"/>
+    </id>
+    <property column="date_of_birthreport" name="dateOfReport" not-null="true" type="timestamp"/>
+    <property column="date_of_birthevent" name="dateOfEvent" not-null="true" type="timestamp"/>
+    <property column="date_of_dateOXDtimestamp" name="dateTimeStamp" not-null="true" type="timestamp"/>
+    <property column="reporter_id" name="reporterId" not-null="true" type="int"/>
+    <property column="event_identifier" name="eventId" not-null="true" type="java.lang.String"/>
+    <property column="event_name" name="eventName" not-null="true" type="java.lang.String"/>
+    <property column="contact_phone" name="contactPhone" not-null="true" type="java.lang.String"/>   
+    <property column="sex" name="sex" not-null="true" type="java.lang.String"/>
+    <property column="location" name="location" not-null="true" type="java.lang.String"/>
+    <property column="event_place" name="place_of_event" not-null="true" type="java.lang.String"/>
+    <property column="notification_number" name="notificationNumber" not-null="true" type="int"/>
+  </class>
+</hibernate-mapping>

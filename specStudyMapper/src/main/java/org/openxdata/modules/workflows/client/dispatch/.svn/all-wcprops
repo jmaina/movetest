@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/dispatch
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/dispatch/Foo.java
+END
+HelpCalback.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/dispatch/HelpCalback.java
+END
+CachingDispatchAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/dispatch/CachingDispatchAsync.java
+END

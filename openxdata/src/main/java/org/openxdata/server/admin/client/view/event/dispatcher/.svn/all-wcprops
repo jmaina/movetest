@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/event/dispatcher
+END
+EventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/event/dispatcher/EventDispatcher.java
+END
+ExtendedEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/event/dispatcher/ExtendedEventDispatcher.java
+END

@@ -1,0 +1,26 @@
+<!--
+Uncomment this for XHTML entities
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+-->
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+    <ui:style>
+
+    </ui:style>
+    <g:HTMLPanel height="100%" width="100%">
+        <table style="width: 100%">
+            <tr>
+                <td>Name</td>
+                <td>
+                    <g:TextBox width="90%" ui:field="txtName"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Number</td>
+                <td>
+                    <g:TextBox width="90%" ui:field="txtNumber"/>
+                </td>
+            </tr>
+        </table>
+    </g:HTMLPanel>
+</ui:UiBinder>

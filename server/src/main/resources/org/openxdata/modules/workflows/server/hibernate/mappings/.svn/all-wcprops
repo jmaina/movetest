@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/modules/workflows/server/hibernate/mappings
+END
+Specifications.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/modules/workflows/server/hibernate/mappings/Specifications.hbm.xml
+END
+SpecStudyMaps.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/modules/workflows/server/hibernate/mappings/SpecStudyMaps.hbm.xml
+END
+Workitems.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/modules/workflows/server/hibernate/mappings/Workitems.hbm.xml
+END

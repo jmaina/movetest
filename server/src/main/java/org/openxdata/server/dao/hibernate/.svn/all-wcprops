@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate
+END
+HibernateSettingGroupDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateSettingGroupDAO.java
+END
+HibernateFormDownloadDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateFormDownloadDAO.java
+END
+HibernateFormDataDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateFormDataDAO.java
+END
+HibernateLocaleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateLocaleDAO.java
+END
+HibernateUserFormMapDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateUserFormMapDAO.java
+END
+HibernateRoleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateRoleDAO.java
+END
+HibernateMobileMenuTextDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateMobileMenuTextDAO.java
+END
+HibernateSmsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateSmsDAO.java
+END
+HibernateTaskDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateTaskDAO.java
+END
+HibernateFormDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateFormDAO.java
+END
+HibernateUserStudyMapDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateUserStudyMapDAO.java
+END
+HibernateStudyDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateStudyDAO.java
+END
+HibernateUserReportMapDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateUserReportMapDAO.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/package.html
+END
+HibernateEditableDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateEditableDAO.java
+END
+BaseDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/BaseDAOImpl.java
+END
+HibernateReportDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateReportDAO.java
+END
+HibernateDataExportDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateDataExportDAO.java
+END
+HibernateSettingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateSettingDAO.java
+END
+HibernateUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateUserDAO.java
+END
+HibernateUserReportGroupMapDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateUserReportGroupMapDAO.java
+END
+HibernateReportGroupDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernateReportGroupDAO.java
+END
+HibernatePermissionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/dao/hibernate/HibernatePermissionDAO.java
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view
+END
+GWTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/GWTClient.java
+END
+BaseListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/BaseListView.java
+END
+LoginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/LoginView.java
+END
+SettingView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/SettingView.ui.xml
+END
+SimpleFilterListBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/SimpleFilterListBox.java
+END
+BasePropertyDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/BasePropertyDisplay.java
+END
+SettingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/SettingView.java
+END
+NewSettingValueView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/NewSettingValueView.ui.xml
+END
+MainView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/MainView.ui.xml
+END
+TasksView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/TasksView.ui.xml
+END
+CenterTabPanelView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/CenterTabPanelView.ui.xml
+END
+ReLoginDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/ReLoginDialog.java
+END
+NewSettingValueView.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/NewSettingValueView.java
+END
+MainView.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/MainView.java
+END
+OpenXdataConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/OpenXdataConstants.java
+END
+TasksView.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/TasksView.java
+END
+CenterTabPanelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/CenterTabPanelView.java
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/ProgressDialog.java
+END
+NewSettingGrpView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/NewSettingGrpView.ui.xml
+END
+ScheduleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/ScheduleView.java
+END
+StBScrollPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/StBScrollPanel.java
+END
+TaskView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/TaskView.ui.xml
+END
+NewSettingGrpView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/NewSettingGrpView.java
+END
+SettingsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/SettingsView.java
+END
+openXdataConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/openXdataConstants.properties
+END
+TaskView.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/TaskView.java
+END
+LoginView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/view/LoginView.ui.xml
+END

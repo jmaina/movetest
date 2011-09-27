@@ -1,0 +1,98 @@
+10
+
+dir
+5108
+https://svn.openxdata.org/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server
+https://svn.openxdata.org
+
+
+
+2010-12-31T17:37:22.172271Z
+3587
+patch@openxdata.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6cddc80d-1c40-44cd-927a-2be6005847d2
+
+OpenXDataPropertyPlaceholderConfigurerTest.java
+file
+
+
+
+
+2011-09-27T09:34:07.319730Z
+54f0651d3a0677d6bf788817524c1dc8
+2010-07-07T10:49:33.512628Z
+2384
+simon@cell-life.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5351
+
+service
+dir
+
+export
+dir
+
+sms
+dir
+
+dao
+dir
+
+servlet
+dir
+
+engine
+dir
+
+serializer
+dir
+
+validation
+dir
+
+permissions
+dir
+
+report
+dir
+
+util
+dir
+
+xforms
+dir
+

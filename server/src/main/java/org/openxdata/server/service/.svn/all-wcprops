@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/4864/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/UserService.java
+END
+SchedulerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4752/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/SchedulerService.java
+END
+AuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/AuthenticationService.java
+END
+MailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/MailService.java
+END
+FormDownloadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/FormDownloadService.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/package.html
+END
+LocaleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/LocaleService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/RoleService.java
+END
+TaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4752/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/TaskService.java
+END
+SmsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/SmsService.java
+END
+UtilityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/UtilityService.java
+END
+StudyManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/StudyManagerService.java
+END
+FormService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/FormService.java
+END
+ReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/ReportService.java
+END
+DataExportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/DataExportService.java
+END
+SettingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/SettingService.java
+END
+SerializationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/service/SerializationService.java
+END

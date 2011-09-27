@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings
+END
+Report.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/Report.hbm.xml
+END
+Setting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/Setting.hbm.xml
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/User.hbm.xml
+END
+TaskDef.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/TaskDef.hbm.xml
+END
+FormDef.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormDef.hbm.xml
+END
+TaskParam.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/TaskParam.hbm.xml
+END
+UserReportGroupMap.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/UserReportGroupMap.hbm.xml
+END
+FormDefText.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormDefText.hbm.xml
+END
+StudyDef.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/StudyDef.hbm.xml
+END
+ReportGroup.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/ReportGroup.hbm.xml
+END
+Permission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/Permission.hbm.xml
+END
+FormSmsArchive.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormSmsArchive.hbm.xml
+END
+FormDefVersion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormDefVersion.hbm.xml
+END
+SettingGroup.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/SettingGroup.hbm.xml
+END
+StudyDefText.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/StudyDefText.hbm.xml
+END
+FormDefVersionText.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormDefVersionText.hbm.xml
+END
+FormData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormData.hbm.xml
+END
+Locale.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/Locale.hbm.xml
+END
+FormSmsError.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormSmsError.hbm.xml
+END
+UserFormMap.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/UserFormMap.hbm.xml
+END
+Role.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/Role.hbm.xml
+END
+MobileMenuText.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/MobileMenuText.hbm.xml
+END
+FormDataVersion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormDataVersion.hbm.xml
+END
+UserStudyMap.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/UserStudyMap.hbm.xml
+END
+FormDataHeader.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/FormDataHeader.hbm.xml
+END
+UserReportMap.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/org/openxdata/server/dao/hibernate/mappings/UserReportMap.hbm.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server
+END
+SettingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/SettingServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/UserServiceImpl.java
+END
+FormServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/FormServiceImpl.java
+END
+StudyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/StudyServiceImpl.java
+END

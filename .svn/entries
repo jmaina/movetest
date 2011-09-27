@@ -1,0 +1,92 @@
+10
+
+dir
+5108
+https://svn.openxdata.org/Server/branches/wf-intergration/openxdata
+https://svn.openxdata.org
+
+
+
+2011-09-15T04:03:08.800885Z
+5090
+kayondor@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+6cddc80d-1c40-44cd-927a-2be6005847d2
+
+wf-mobile-model
+dir
+
+model
+dir
+
+rpc-interface
+dir
+
+openxdata
+dir
+
+SchedulingService
+dir
+
+server
+dir
+
+protocol-api
+dir
+
+specStudyMapper
+dir
+
+pom.xml
+file
+
+
+
+
+2011-09-27T09:34:16.371199Z
+6938044502d3efc166a00db01c183c69
+2011-02-10T05:33:35.349787Z
+3806
+kayondor@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7384
+
+protocol-providers
+dir
+
+yawl
+dir
+

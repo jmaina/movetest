@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog/1.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog/1.9
+                  http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.9.xsd">
+	<!-- 
+	
+		See http://www.liquibase.org/manual/home#available_database_refactorings 
+		for a list of supported elements and attributes 
+		
+	-->
+	
+    <changeSet author="dagmar@cell-life.org" id="addNewUserEmailSettings">
+    	<preConditions onFail="MARK_RAN">
+			<sqlCheck expectedResult="0">
+				<![CDATA[
+				SELECT count(*) FROM setting_group where name='New User Email';
+				]]>
+			</sqlCheck>
+		</preConditions>
+		<comment>
+			Adding New User Email settings
+		</comment>
+		<sql> 
+       		insert into setting (name, description, value, setting_group_id) 
+       		values ('enableNewUserEmail', 'Enable the sending of an email to new users when their login is created', 'false', (select setting_group_id from setting_group where name='User Settings'));
+ 	    </sql>
+ 	    <sql> 
+       		insert into setting (name, description, value, setting_group_id) 
+       		values ('serverUrl', 'The OpenXData server URL (used in the New User Email)', 'http://demo.openxdata.org', (select setting_group_id from setting_group where name='General'));
+ 	    </sql>
+    </changeSet>    
+    
+    <changeSet author="Mark" id="changing_administrator_details">
+		<comment>
+			changing the initial details of the default administrator user.
+		</comment>
+        <update tableName="users">
+    		<column name="email" value="contact@openxdata.org"/>
+    		<column name="secret_answer" value="the openxdata consortium"/>
+    		<where>email='cattabanks@gmail.com'</where>
+		</update>
+	</changeSet>
+
+    <changeSet author="Jonny" id="remove_rdbs_exporter_as_a_job">
+        <comment>
+			Remove the rdbs exporter as a job, since it is integrated in server.
+        </comment>
+
+        <delete tableName="task_param">
+            <where>task_id in (select task_id from task where task_class='org.openxdata.server.export.rdbms.task.RdmsDataExportTask')</where>
+        </delete>
+        <delete tableName="task">
+            <where>task_class='org.openxdata.server.export.rdbms.task.RdmsDataExportTask'</where>
+        </delete>
+    </changeSet>
+
+    <changeSet author="ronald.k" id="create_specifications_table">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="wf_specifications"/>
+            </not>
+        </preConditions>
+        <createTable tableName="wf_specifications">
+            <column autoIncrement="true" name="id" type="INT">
+                <constraints nullable="false" primaryKey="true"/>
+            </column>
+            <column name="spec_id" type="VARCHAR(255)" >
+                <constraints unique="true" nullable="false"/>
+            </column>
+            <column name="xml" type="LONGTEXT">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="create_spec_study_maps" author="ronald.k">
+        <preConditions>
+            <not>
+                <tableExists tableName="wf_spec_study_maps"/>
+            </not>
+        </preConditions>
+
+        <createTable tableName="wf_spec_study_maps">
+            <column autoIncrement="true" name="id" type="INT">
+                <constraints nullable="false" primaryKey="true"/>
+            </column>
+            <column name="spec_id" type="INT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="study_id" type="INT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="xml" type="LONGTEXT"/>
+        </createTable>
+
+        <addForeignKeyConstraint constraintName="specification_spec_study_maps_id"
+                baseTableName="wf_spec_study_maps" baseColumnNames="spec_id"
+                referencedTableName="wf_specifications" referencedColumnNames="id"/>
+
+        <addForeignKeyConstraint constraintName="study_spec_study_maps_id"
+                baseTableName="wf_spec_study_maps" baseColumnNames="study_id"
+                referencedTableName="study" referencedColumnNames="study_id"/>
+
+      <addUniqueConstraint constraintName="spec_study_maps_unique_study_id_spec_id" tableName="wf_spec_study_maps" columnNames="study_id, spec_id"/>
+    </changeSet>
+
+    <changeSet author="create-workitems-table" id="ronald.k">
+
+         <preConditions>
+            <not>
+                <tableExists tableName="wf_workitems"/>
+            </not>
+        </preConditions>
+       <createTable tableName="wf_workitems">
+            <column name="WIR_ID" autoIncrement="true"   type="BIGINT">
+                <constraints nullable="false" primaryKey="true"/>
+            </column>
+            <column name="SPECID" type="VARCHAR(255)"/>
+            <column name="SPECVERSION" type="VARCHAR(255)"/>
+            <column name="CASEID" type="VARCHAR(255)"/>
+            <column name="TASKID" type="VARCHAR(255)"/>
+            <column name="UNIQUEID" type="VARCHAR(255)"/>
+            <column name="EXTENDEDATTRIBUTES" type="VARCHAR(255)"/>
+            <column name="CANCREATE" type="VARCHAR(255)"/>
+            <column name="CODELET" type="VARCHAR(255)"/>
+            <column name="DEFERREDID" type="VARCHAR(255)"/>
+            <column name="FIRINGTIME" type="VARCHAR(255)"/>
+            <column name="ENABLEMENTTIME" type="VARCHAR(255)"/>
+            <column name="STARTTIME" type="VARCHAR(255)"/>
+            <column name="COMPLETIONTIME" type="VARCHAR(255)"/>
+            <column name="STATUS" type="VARCHAR(255)"/>
+            <column name="RESOURCESTATUS" type="VARCHAR(255)"/>
+            <column name="STARTEDBY" type="VARCHAR(255)"/>
+            <column name="COMPLETEDBY" type="VARCHAR(255)"/>
+            <column name="DATALIST" type="longtext"/>
+            <column name="DATALISTUPDATED" type="longtext"/>
+            <column name="ENABLEDTIMEMS" type="VARCHAR(255)"/>
+            <column name="FIRINGTIMEMS" type="VARCHAR(255)"/>
+            <column name="STARTTIMEMS" type="VARCHAR(255)"/>
+            <column name="COMPLETIONTIMEMS" type="VARCHAR(255)"/>
+            <column name="TIMERTRIGGER" type="VARCHAR(255)"/>
+            <column name="TIMEREXPIRY" type="VARCHAR(255)"/>
+            <column name="EDITED" type="smallint"/>
+            <column name="CUSTOMFORMURL" type="VARCHAR(255)"/>
+            <column name="TAG" type="VARCHAR(255)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="add-names-and-columns-to-specifications-table" author="ronald.k">
+        <preConditions>
+            <not>
+                <columnExists tableName="wf_specifications" columnName="name"/>
+                <columnExists tableName="wf_specifications" columnName="version"/>
+            </not>
+        </preConditions>
+        <addColumn tableName="wf_specifications">
+            <column name="name" type="VARCHAR(255)" />
+            <column name="version" type="VARCHAR(255)"/>
+        </addColumn>
+    </changeSet>
+</databaseChangeLog>

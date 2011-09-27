@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view
+END
+MenuView.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/MenuView.java
+END
+SpecToStudyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/SpecToStudyView.java
+END
+TaskFormView.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/TaskFormView.java
+END
+ParamQuestionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/ParamQuestionView.java
+END
+SpecificationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/SpecificationView.java
+END
+AbstractRightView.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/AbstractRightView.java
+END
+AvailableWIRView.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/AvailableWIRView.java
+END
+MessageBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/MessageBox.java
+END
+RootPanelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/view/RootPanelView.java
+END

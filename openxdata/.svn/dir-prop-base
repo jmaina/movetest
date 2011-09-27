@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 65
+.classpath
+.project
+.settings
+target
+nbactions.xml
+openxdata.log
+
+END

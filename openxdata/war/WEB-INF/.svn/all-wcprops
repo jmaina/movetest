@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/war/WEB-INF
+END
+openxdata-emit-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/war/WEB-INF/openxdata-emit-applicationContext.xml
+END
+openxdata-emit-applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/war/WEB-INF/openxdata-emit-applicationContext-security.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/war/WEB-INF/web.xml
+END

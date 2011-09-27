@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping package="org.openxdata.server.admin.model">
+
+	<class name="MobileMenuText" table="mobile_menu_text" lazy="false">
+	
+		<id name="menuTextId" type="java.lang.Integer" column="menu_text_id"
+				unsaved-value="0">
+				<generator class="native">
+					 <param name="sequence">mobile_menu_text_menu_text_id_seq</param>
+				</generator>
+		</id>
+	
+		<discriminator column="menu_text_id" insert="false" />
+
+		<property name="menuId" type="java.lang.Short" column="menu_id" not-null="true" />
+		<property name="localeKey" type="java.lang.String" column="locale_key" not-null="true" />
+		<property name="menuText" type="java.lang.String" column="menu_text" not-null="true" />
+		
+	</class>
+	
+</hibernate-mapping>

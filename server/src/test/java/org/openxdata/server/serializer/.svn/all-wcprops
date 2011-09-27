@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/serializer
+END
+KxmlXformSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/serializer/KxmlXformSerializerTest.java
+END
+DefaultXformSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/serializer/DefaultXformSerializerTest.java
+END

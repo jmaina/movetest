@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/places
+END
+BasicPlaceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/places/BasicPlaceManager.java
+END
+ShowCasesPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/places/ShowCasesPlace.java
+END
+SettingsPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/places/SettingsPlace.java
+END
+EditSettingPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/places/EditSettingPlace.java
+END
+EditTaskPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/places/EditTaskPlace.java
+END

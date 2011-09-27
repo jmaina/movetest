@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/5090/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers
+END
+DldSurveyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/5090/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/DldSurveyHandler.java
+END
+ErrorWhileProcessHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/ErrorWhileProcessHandler.java
+END
+ProcessorCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/ProcessorCreator.java
+END
+WIRDownloadByIdHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/WIRDownloadByIdHandler.java
+END
+WIRInfoDownloadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/WIRInfoDownloadHandler.java
+END
+NotSupportedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/NotSupportedHandler.java
+END
+WIRUploadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/5057/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/WIRUploadHandler.java
+END
+RequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/RequestHandler.java
+END
+HandlerStreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/5090/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/HandlerStreamUtil.java
+END
+WIRDownloadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4960/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/WIRDownloadHandler.java
+END
+AccessDeniedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/AccessDeniedHandler.java
+END
+InspectUploadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5090/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/InspectUploadHandler.java
+END
+RetireHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4957/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/RetireHandler.java
+END
+FormDownloadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/handlers/FormDownloadHandler.java
+END

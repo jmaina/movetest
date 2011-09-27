@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server
+END
+SettingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server/SettingServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server/UserServiceImpl.java
+END
+SpecificationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server/SpecificationServiceImpl.java
+END
+TaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server/TaskServiceImpl.java
+END
+OxdPersistentRemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server/OxdPersistentRemoteService.java
+END
+ServletConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/server/ServletConfig.java
+END

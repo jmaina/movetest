@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/4752/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server
+END
+SettingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/SettingServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/UserServiceImpl.java
+END
+AuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/AuthenticationServiceImpl.java
+END
+RoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/RoleServiceImpl.java
+END
+SmsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/SmsServiceImpl.java
+END
+TaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/TaskServiceImpl.java
+END
+FormServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/FormServiceImpl.java
+END
+StudyManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/StudyManagerServiceImpl.java
+END
+UtilityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/UtilityServiceImpl.java
+END
+ReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/ReportServiceImpl.java
+END

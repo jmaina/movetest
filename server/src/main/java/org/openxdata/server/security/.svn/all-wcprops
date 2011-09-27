@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/security
+END
+OpenXDataPasswordEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/security/OpenXDataPasswordEncoder.java
+END
+OpenXDataUserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/security/OpenXDataUserDetails.java
+END
+OpenXdataUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/security/OpenXdataUserDetailsService.java
+END
+OpenXDataUserDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/security/OpenXDataUserDetailsServiceImpl.java
+END
+OpenXDataAccessDecisionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/security/OpenXDataAccessDecisionManager.java
+END

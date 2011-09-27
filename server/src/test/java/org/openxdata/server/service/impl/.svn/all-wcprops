@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl
+END
+UserServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/UserServiceTest.java
+END
+AuthenticationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/AuthenticationServiceTest.java
+END
+FormDefServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/FormDefServiceTest.java
+END
+PermissionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/PermissionServiceTest.java
+END
+FormDownloadServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/FormDownloadServiceTest.java
+END
+FormDataServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/FormDataServiceTest.java
+END
+LocaleServiceUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/LocaleServiceUnitTest.java
+END
+LocaleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/LocaleServiceTest.java
+END
+importErrors.csv
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/importErrors.csv
+END
+RoleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/RoleServiceTest.java
+END
+MobileMenuTextServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/MobileMenuTextServiceTest.java
+END
+SmsServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/SmsServiceTest.java
+END
+TaskServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/TaskServiceTest.java
+END
+StudyManagerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/StudyManagerServiceTest.java
+END
+FormServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/FormServiceTest.java
+END
+UtilityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/UtilityServiceTest.java
+END
+import.csv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/import.csv
+END
+TaskServiceWithMockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/TaskServiceWithMockTest.java
+END
+ReportServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/ReportServiceTest.java
+END
+DataExportServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/DataExportServiceTest.java
+END
+SettingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/SettingServiceTest.java
+END
+SerializationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/service/impl/SerializationServiceTest.java
+END

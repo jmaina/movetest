@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter
+END
+NewSettingPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/NewSettingPresenter.java
+END
+LoginPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/LoginPresenter.java
+END
+CenterTabPanelPreseter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/CenterTabPanelPreseter.java
+END
+SettingPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/SettingPresenter.java
+END
+SettingsPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/SettingsPresenter.java
+END
+TaskPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/TaskPresenter.java
+END
+RootPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/RootPresenter.java
+END
+BaseListDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/BaseListDisplay.java
+END
+NewSettingValuePresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/NewSettingValuePresenter.java
+END
+WidgetPresenterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/WidgetPresenterAdapter.java
+END
+TasksPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/TasksPresenter.java
+END
+BaseListPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/presenter/BaseListPresenter.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/validation
+END
+OpenxdataValidations.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/validation/OpenxdataValidations.java
+END
+DataValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/validation/DataValidation.java
+END
+RegularExpressions.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/validation/RegularExpressions.java
+END
+FileValidations.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/validation/FileValidations.java
+END
+PersonIdentificationValidations.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/validation/PersonIdentificationValidations.java
+END

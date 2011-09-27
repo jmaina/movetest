@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event
+END
+EventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/EventType.java
+END
+LoadRequetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/LoadRequetEvent.java
+END
+BaseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/BaseHandler.java
+END
+RequestEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/RequestEvent.java
+END
+EditableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/EditableEvent.java
+END
+ErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/ErrorEvent.java
+END
+EventRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/event/EventRegistration.java
+END

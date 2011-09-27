@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/maps/parser
+END
+SpecStudyParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/maps/parser/SpecStudyParserTest.java
+END
+TaskFormDefParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/maps/parser/TaskFormDefParserTest.java
+END
+MatcherHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/maps/parser/MatcherHelperTest.java
+END
+OverAllMapsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/maps/parser/OverAllMapsTest.java
+END
+MapsLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/maps/parser/MapsLoader.java
+END

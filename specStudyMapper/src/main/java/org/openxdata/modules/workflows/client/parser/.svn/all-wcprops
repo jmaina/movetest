@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/parser
+END
+SpecStudyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/parser/SpecStudyParser.java
+END
+TaskFormDefParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/parser/TaskFormDefParser.java
+END
+ParamQuestionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/parser/ParamQuestionParser.java
+END
+TaskFormVersionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/parser/TaskFormVersionParser.java
+END
+MapParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/parser/MapParser.java
+END

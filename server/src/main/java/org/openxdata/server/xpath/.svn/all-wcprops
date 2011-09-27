@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/xpath
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/xpath/Predicate.java
+END
+XPathExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/xpath/XPathExpression.java
+END
+XPathLocationStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/xpath/XPathLocationStep.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/xpath/package.html
+END

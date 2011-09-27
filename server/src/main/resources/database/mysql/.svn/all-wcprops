@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql
+END
+liquibase-create-foreignkeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-create-foreignkeys.xml
+END
+create-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/create-database.sql
+END
+liquibase-mobile-menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-mobile-menu.xml
+END
+liquibase-create-tables.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-create-tables.xml
+END
+liquibase-insert-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-insert-data.xml
+END
+liquibase-master.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-master.xml
+END
+liquibase-permissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-permissions.xml
+END
+liquibase-update-to-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-update-to-1.0.xml
+END
+liquibase-update-to-1.3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/liquibase-update-to-1.3.xml
+END
+OPENXDATA_SETTINGS.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/resources/database/mysql/OPENXDATA_SETTINGS.properties
+END

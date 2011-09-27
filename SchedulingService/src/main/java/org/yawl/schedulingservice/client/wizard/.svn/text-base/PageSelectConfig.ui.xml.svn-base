@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--<!DOCTYPE ui:UiBinder SYSTEM "file:/C:/DEV/DTD&SCHEMA/xhtml.dtd">-->
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+        xmlns:c="urn:import:org.yawl.schedulingservice.client.view">
+
+    <g:HTMLPanel ui:field="vPanel"  height="100%" width="100%" >
+
+            <table style="width: 100%">
+                <tr>
+                    <td width="10%" >Prefilled Config</td>
+                    <td>
+                        <c:SimpleFilterListBox width="90%" ui:field="lstConfigs"/>
+                    </td>
+                </tr>
+            </table>
+
+    </g:HTMLPanel>
+
+ </ui:UiBinder>

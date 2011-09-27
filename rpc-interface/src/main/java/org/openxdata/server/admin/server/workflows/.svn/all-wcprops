@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4752/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/workflows
+END
+SpecificationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/workflows/SpecificationServiceImpl.java
+END
+SpecStudyMapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/workflows/SpecStudyMapServiceImpl.java
+END
+ServletConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4752/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/server/workflows/ServletConfig.java
+END

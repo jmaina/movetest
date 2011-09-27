@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view
+END
+ReportDataView.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/ReportDataView.java
+END
+StudyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/StudyView.java
+END
+LoginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/LoginView.java
+END
+WorkFlowView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/WorkFlowView.java
+END
+ReportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/ReportView.java
+END
+SettingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/SettingView.java
+END
+UserView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/UserView.java
+END
+OpenXDataBaseView.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/OpenXDataBaseView.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/package.html
+END
+MainView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/MainView.java
+END
+StudyPropertiesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/StudyPropertiesView.java
+END
+ScheduleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/ScheduleView.java
+END
+RoleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/RoleView.java
+END
+StudyDataView.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/StudyDataView.java
+END
+TaskView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/TaskView.java
+END
+ParametersView.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/ParametersView.java
+END

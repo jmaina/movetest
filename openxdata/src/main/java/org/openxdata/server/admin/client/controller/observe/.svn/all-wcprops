@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe
+END
+ReportsObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/ReportsObserver.java
+END
+OpenXDataObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/OpenXDataObservable.java
+END
+SettingsObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/SettingsObserver.java
+END
+StudiesObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/StudiesObserver.java
+END
+UsersObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/UsersObserver.java
+END
+OpenXDataObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/OpenXDataObserver.java
+END
+UtilityObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/UtilityObserver.java
+END
+RolesObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/RolesObserver.java
+END
+TasksObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/controller/observe/TasksObserver.java
+END

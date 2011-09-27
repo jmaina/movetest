@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/servlet
+END
+StudyExportServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/servlet/StudyExportServletTest.java
+END
+DataExportServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/servlet/DataExportServletTest.java
+END
+DataImportServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/servlet/DataImportServletTest.java
+END
+ResetPasswordServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/server/servlet/ResetPasswordServletTest.java
+END

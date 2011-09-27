@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/UserService.java
+END
+AuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/AuthenticationService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/RoleService.java
+END
+SmsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/SmsService.java
+END
+TaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/TaskService.java
+END
+FormService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/FormService.java
+END
+StudyManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/StudyManagerService.java
+END
+UtilityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/UtilityService.java
+END
+ReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/ReportService.java
+END
+SettingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/rpc-interface/src/main/java/org/openxdata/server/admin/client/service/SettingService.java
+END

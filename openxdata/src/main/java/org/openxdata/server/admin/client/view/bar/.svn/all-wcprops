@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/bar
+END
+OpenXDataNotificationBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/bar/OpenXDataNotificationBar.java
+END
+OpenXDataToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/bar/OpenXDataToolBar.java
+END
+OpenXDataBaseMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/bar/OpenXDataBaseMenuBar.java
+END
+OpenXDataMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/bar/OpenXDataMenuBar.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/server/handler
+END
+ParseSpecActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/server/handler/ParseSpecActionHandler.java
+END
+GetSpecActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/server/handler/GetSpecActionHandler.java
+END
+GetStudiesActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/server/handler/GetStudiesActionHandler.java
+END

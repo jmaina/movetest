@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/test/java/org/openxdata/server/admin/model
+END
+FormDefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/test/java/org/openxdata/server/admin/model/FormDefTest.java
+END
+StudyDefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/test/java/org/openxdata/server/admin/model/StudyDefTest.java
+END
+FormDefVersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/test/java/org/openxdata/server/admin/model/FormDefVersionTest.java
+END
+UserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/test/java/org/openxdata/server/admin/model/UserTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners
+END
+FormVersionOpenDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners/FormVersionOpenDialogListener.java
+END
+OnDataReturnedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners/OnDataReturnedListener.java
+END
+OnDataCheckListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners/OnDataCheckListener.java
+END
+OpenXDataViewApplicationEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners/OpenXDataViewApplicationEventListener.java
+END
+OpenXDataViewExtendedApplicationEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners/OpenXDataViewExtendedApplicationEventListener.java
+END
+OpenXDataExportImportApplicationEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/listeners/OpenXDataExportImportApplicationEventListener.java
+END

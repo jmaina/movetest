@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!--
+    Document   : UserReporters.hbm.xml
+    Created on : September 23, 2011, 7:49 PM
+    Author     : jmaina
+    Description:
+        Purpose of the document follows.
+-->
+
+<hibernate-mapping package="org.openxdata.modules.moveit.server.model" >
+  <class name="UserReporters" table="user_reporters">
+    <id column="ureporter_id" name="userReportId" type="int" unsaved-value="0">
+      <generator class="native"/>
+    </id>
+    <many-to-one class="org.openxdata.server.admin.model.User" column="user_id" name="user"/>
+    <property column="reporterid" name="reporterId" not-null="true" type="int"/>
+    <property column="chwName" name="chwName" not-null="true" type="int"/>    
+  </class>
+</hibernate-mapping>

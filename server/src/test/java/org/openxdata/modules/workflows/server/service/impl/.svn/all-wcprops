@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/service/impl
+END
+MapServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/service/impl/MapServiceImplTest.java
+END
+WorkItemsServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/test/java/org/openxdata/modules/workflows/server/service/impl/WorkItemsServiceImplTest.java
+END

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+    <display-name>Scheduling Service</display-name>
+    <listener>
+        <description>Guice Servlet Listener</description>
+        <listener-class>org.yawl.schedulingservice.server.ServletConfig</listener-class>
+    </listener>
+    <session-config>
+        <session-timeout>1</session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    <!--Servlets -->
+    <servlet>
+        <servlet-name>userservice</servlet-name>
+        <servlet-class>org.yawl.schedulingservice.server.UserServiceImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>userservice</servlet-name>
+        <url-pattern>/Scheduler/user</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>taskservice</servlet-name>
+        <servlet-class>org.yawl.schedulingservice.server.TaskServiceImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>taskservice</servlet-name>
+        <url-pattern>/Scheduler/TaskService</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>settingService</servlet-name>
+        <servlet-class>org.yawl.schedulingservice.server.SettingServiceImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>settingService</servlet-name>
+        <url-pattern>/Scheduler/SettingService</url-pattern>
+    </servlet-mapping>
+    <!-- Workflow Entry InterfaceBWebsideController -->
+    <context-param>
+        <param-name>InterfaceBWebSideController</param-name>
+        <param-value>org.openxdata.modules.workflows.server.YawlOXDCustomService</param-value>
+    </context-param>
+    <context-param>
+        <param-name>InterfaceB_BackEnd</param-name>
+        <param-value>http://localhost:8787/yawl/ib</param-value>
+    </context-param>
+    <filter>
+        <filter-name>guiceFilter</filter-name>
+        <filter-class>com.google.inject.servlet.GuiceFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>guiceFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <!-- Acegi/Spring Security filter (to intercept the requests and perform security checks) s-->
+    <filter>
+        <filter-name>springSecurityFilterChain</filter-name>
+        <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>springSecurityFilterChain</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>
+    /WEB-INF/openxdata-emit-applicationContext-security.xml
+        </param-value>
+    </context-param>
+    <!-- UTF-8 characterset filtering -->
+    <filter>
+        <filter-name>charsetFilter</filter-name>
+        <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+        <init-param>
+            <param-name>encoding</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+        <init-param>
+            <param-name>forceEncoding</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>charsetFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <!-- Other openxdata * -->
+    <servlet>
+        <servlet-name>formdownloadservlet</servlet-name>
+        <servlet-class>org.openxdata.server.servlet.FormDownloadServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>formdownloadservlet</servlet-name>
+        <url-pattern>/OpenXDataServerAdmin/formdownloadservlet</url-pattern>
+        <url-pattern>/formdownloadservlet</url-pattern>
+    </servlet-mapping>
+</web-app>

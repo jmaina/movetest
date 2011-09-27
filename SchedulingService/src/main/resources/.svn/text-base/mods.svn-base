@@ -1,0 +1,4 @@
+implemented taskservice to get next execution date
+Added a to string on the setting in model project
+
+Added TaskParam getParam(String) to TaskDef

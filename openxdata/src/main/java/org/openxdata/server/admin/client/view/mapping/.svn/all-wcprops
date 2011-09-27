@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping
+END
+UserReportGroupMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/UserReportGroupMapView.java
+END
+UserStudyMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/UserStudyMapView.java
+END
+RolePermissionMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/RolePermissionMapView.java
+END
+UserReportMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/UserReportMapView.java
+END
+UserRoleMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/UserRoleMapView.java
+END
+UserFormMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/UserFormMapView.java
+END
+OpenXDataBaseObjectMapView.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/view/mapping/OpenXDataBaseObjectMapView.java
+END

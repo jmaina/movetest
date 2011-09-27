@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event
+END
+ViewAvailableWIREvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/ViewAvailableWIREvent.java
+END
+ViewSpecStudyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/ViewSpecStudyEvent.java
+END
+NewTaskFormEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/NewTaskFormEvent.java
+END
+NewStudyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/NewStudyEvent.java
+END
+ViewTasksFormEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/ViewTasksFormEvent.java
+END
+ViewVariableQuestionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/ViewVariableQuestionEvent.java
+END
+ACTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/ACTION.java
+END
+NewSpecStudyMapEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/NewSpecStudyMapEvent.java
+END
+NewSpecicationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/NewSpecicationEvent.java
+END
+NewWIREvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/NewWIREvent.java
+END
+ViewLoadItemsEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/event/ViewLoadItemsEvent.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/Context.java
+END
+HelpCallBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/HelpCallBack.java
+END
+Sheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/Sheduler.java
+END
+SaveCompleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/5058/Server/branches/wf-intergration/openxdata/SchedulingService/src/main/java/org/yawl/schedulingservice/client/SaveCompleteListener.java
+END

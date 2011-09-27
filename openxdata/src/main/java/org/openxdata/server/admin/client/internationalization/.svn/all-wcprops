@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization
+END
+OpenXdataConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization/OpenXdataConstants.java
+END
+Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization/Facade.java
+END
+OpenXDataFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization/OpenXDataFacade.java
+END
+openXdataConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization/openXdataConstants.properties
+END
+openXdataConstants_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization/openXdataConstants_en.properties
+END
+openXdataConstants_lug_UG.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/server/admin/client/internationalization/openXdataConstants_lug_UG.properties
+END

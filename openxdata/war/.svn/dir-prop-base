@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 65
+OpenXDataServerAdmin
+emit
+openxdata-emit.log
+openxdata-emit.log*
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/dao/hibernate
+END
+HibernateWorkItemDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/dao/hibernate/HibernateWorkItemDAO.java
+END
+HibernateDBSpecificationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/dao/hibernate/HibernateDBSpecificationDAO.java
+END
+HibernateDBSpecStudyMapDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/modules/workflows/server/dao/hibernate/HibernateDBSpecStudyMapDAO.java
+END

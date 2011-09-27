@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/4864/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server
+END
+OpenXDataPropertyPlaceholderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/OpenXDataPropertyPlaceholderConfigurer.java
+END
+OpenXDataConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/OpenXDataConstants.java
+END
+ResponseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/ResponseStatus.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/Task.java
+END
+ApplicationContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/ApplicationContextProvider.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/Context.java
+END
+FormsServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/FormsServer.java
+END

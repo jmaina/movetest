@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/database/liquibase/customchanges
+END
+ReExportAllFormData.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/database/liquibase/customchanges/ReExportAllFormData.java
+END
+FixBinaryColumnsExportedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/database/liquibase/customchanges/FixBinaryColumnsExportedData.java
+END

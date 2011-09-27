@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/model
+END
+FormSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/model/FormSummary.java
+END
+StudySummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/model/StudySummary.java
+END
+FormDataBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/model/FormDataBinding.java
+END
+FormDataSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/model/FormDataSummary.java
+END

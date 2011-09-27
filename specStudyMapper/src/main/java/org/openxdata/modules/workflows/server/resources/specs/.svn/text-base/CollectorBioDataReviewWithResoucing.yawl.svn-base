@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specificationSet xmlns="http://www.yawlfoundation.org/yawlschema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="http://www.yawlfoundation.org/yawlschema http://www.yawlfoundation.org/yawlschema/YAWL_Schema2.0.xsd">
+  <specification uri="CollectBioDataReviewResourcing">
+    <metaData>
+      <creator>kay</creator>
+      <description>No description has been given.</description>
+      <version>0.11</version>
+      <identifier>UID_89b5814a-0baf-4147-9166-fcdfa8e731f6</identifier>
+    </metaData>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" />
+    <decomposition id="New_Net_1" isRootNet="true" xsi:type="NetFactsType">
+      <inputParam>
+        <name>collector_u</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </inputParam>
+      <inputParam>
+        <name>reviewer_u</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </inputParam>
+      <outputParam>
+        <name>collector_u</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </outputParam>
+      <outputParam>
+        <name>reviewer_u</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </outputParam>
+      <localVariable>
+        <name>image_img</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+        <initialValue>Image</initialValue>
+      </localVariable>
+      <localVariable>
+        <name>kids</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+        <initialValue>art</initialValue>
+      </localVariable>
+      <localVariable>
+        <name>numberOfKids</name>
+        <type>integer</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+        <initialValue>2</initialValue>
+      </localVariable>
+      <processControlElements>
+        <inputCondition id="InputCondition_1">
+          <flowsInto>
+            <nextElementRef id="CollectBioData_3" />
+          </flowsInto>
+        </inputCondition>
+        <task id="CollectBioData_3">
+          <name>CollectBioData</name>
+          <flowsInto>
+            <nextElementRef id="ReviewData_4" />
+          </flowsInto>
+          <join code="xor" />
+          <split code="and" />
+          <startingMappings>
+            <mapping>
+              <expression query="&lt;name_u&gt;{/New_Net_1/collector_u/text()}&lt;/name_u&gt;" />
+              <mapsTo>name_u</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;numberOfKids&gt;{/New_Net_1/numberOfKids/text()}&lt;/numberOfKids&gt;" />
+              <mapsTo>numberOfKids</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;image_img&gt;{/New_Net_1/image_img/text()}&lt;/image_img&gt;" />
+              <mapsTo>image_img</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;kids_rpt&gt;{/New_Net_1/kids/text()}&lt;/kids_rpt&gt;" />
+              <mapsTo>kids_rpt</mapsTo>
+            </mapping>
+          </startingMappings>
+          <completedMappings>
+            <mapping>
+              <expression query="&lt;kids&gt;{/CollectBioData/kids_rpt/text()}&lt;/kids&gt;" />
+              <mapsTo>kids</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;numberOfKids&gt;{/CollectBioData/numberOfKids/text()}&lt;/numberOfKids&gt;" />
+              <mapsTo>numberOfKids</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;image_img&gt;{/CollectBioData/image_img/text()}&lt;/image_img&gt;" />
+              <mapsTo>image_img</mapsTo>
+            </mapping>
+          </completedMappings>
+          <decomposesTo id="CollectBioData" />
+        </task>
+        <task id="ReviewData_4">
+          <name>ReviewData</name>
+          <flowsInto>
+            <nextElementRef id="OutputCondition_2" />
+          </flowsInto>
+          <join code="xor" />
+          <split code="and" />
+          <startingMappings>
+            <mapping>
+              <expression query="&lt;name_u&gt;{/New_Net_1/reviewer_u/text()}&lt;/name_u&gt;" />
+              <mapsTo>name_u</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;numberOfKids&gt;{/New_Net_1/numberOfKids/text()}&lt;/numberOfKids&gt;" />
+              <mapsTo>numberOfKids</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;image_img&gt;{/New_Net_1/image_img/text()}&lt;/image_img&gt;" />
+              <mapsTo>image_img</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;kids_rpt&gt;{/New_Net_1/kids/text()}&lt;/kids_rpt&gt;" />
+              <mapsTo>kids_rpt</mapsTo>
+            </mapping>
+          </startingMappings>
+          <completedMappings>
+            <mapping>
+              <expression query="&lt;numberOfKids&gt;{/CollectBioData/numberOfKids/text()}&lt;/numberOfKids&gt;" />
+              <mapsTo>numberOfKids</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;kids&gt;{/CollectBioData/kids_rpt/text()}&lt;/kids&gt;" />
+              <mapsTo>kids</mapsTo>
+            </mapping>
+            <mapping>
+              <expression query="&lt;image_img&gt;{/CollectBioData/image_img/text()}&lt;/image_img&gt;" />
+              <mapsTo>image_img</mapsTo>
+            </mapping>
+          </completedMappings>
+          <decomposesTo id="CollectBioData" />
+        </task>
+        <outputCondition id="OutputCondition_2" />
+      </processControlElements>
+    </decomposition>
+    <decomposition id="CollectBioData" xsi:type="WebServiceGatewayFactsType">
+      <inputParam>
+        <name>name_u</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </inputParam>
+      <inputParam>
+        <name>kids_rpt</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </inputParam>
+      <inputParam>
+        <name>numberOfKids</name>
+        <type>integer</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </inputParam>
+      <inputParam>
+        <name>image_img</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </inputParam>
+      <outputParam>
+        <name>kids_rpt</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </outputParam>
+      <outputParam>
+        <name>numberOfKids</name>
+        <type>integer</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </outputParam>
+      <outputParam>
+        <name>image_img</name>
+        <type>string</type>
+        <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+      </outputParam>
+      <yawlService id="http://localhost:8889/wf" />
+      <externalInteraction>manual</externalInteraction>
+    </decomposition>
+  </specification>
+  <layout>
+    <locale language="en" country="US" />
+    <specification id="CollectBioDataReviewResourcing">
+      <size w="103" h="28" />
+      <net id="New_Net_1">
+        <bounds x="0" y="0" w="1210" h="416" />
+        <frame x="2" y="25" w="1213" h="419" />
+        <viewport x="0" y="0" w="1213" h="419" />
+        <vertex id="InputCondition_1">
+          <attributes>
+            <bounds x="44.0" y="208.0" w="32.0" h="32.0" />
+          </attributes>
+        </vertex>
+        <vertex id="OutputCondition_2">
+          <attributes>
+            <bounds x="1136.0" y="280.0" w="32.0" h="32.0" />
+          </attributes>
+        </vertex>
+        <container id="ReviewData_4">
+          <vertex>
+            <attributes>
+              <bounds x="652.0" y="204.0" w="32.0" h="32.0" />
+            </attributes>
+          </vertex>
+          <label>
+            <attributes>
+              <bounds x="620.0" y="236.0" w="97.0" h="21.0" />
+            </attributes>
+          </label>
+        </container>
+        <container id="CollectBioData_3">
+          <vertex>
+            <attributes>
+              <bounds x="292.0" y="204.0" w="32.0" h="32.0" />
+            </attributes>
+          </vertex>
+          <label>
+            <attributes>
+              <bounds x="260.0" y="236.0" w="109.0" h="21.0" />
+            </attributes>
+          </label>
+        </container>
+        <flow source="InputCondition_1" target="CollectBioData_3">
+          <ports in="13" out="12" />
+          <attributes>
+            <lineStyle>11</lineStyle>
+          </attributes>
+        </flow>
+        <flow source="ReviewData_4" target="OutputCondition_2">
+          <ports in="13" out="12" />
+          <attributes>
+            <lineStyle>11</lineStyle>
+          </attributes>
+        </flow>
+        <flow source="CollectBioData_3" target="ReviewData_4">
+          <ports in="13" out="12" />
+          <attributes>
+            <lineStyle>11</lineStyle>
+          </attributes>
+        </flow>
+      </net>
+    </specification>
+  </layout>
+</specificationSet>
+
+

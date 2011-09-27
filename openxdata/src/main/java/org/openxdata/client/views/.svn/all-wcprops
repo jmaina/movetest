@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views
+END
+FormResponsesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/FormResponsesView.java
+END
+UserAccessFieldset.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/UserAccessFieldset.java
+END
+NewStudyFormView.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/NewStudyFormView.java
+END
+ListCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/ListCellEditor.java
+END
+LoginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/LoginView.java
+END
+DataCaptureView.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/DataCaptureView.java
+END
+DeleteStudyFormView.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/DeleteStudyFormView.java
+END
+FormListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/FormListView.java
+END
+UserProfileView.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/UserProfileView.java
+END
+FormPrintView.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/FormPrintView.java
+END
+WizardView.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/WizardView.java
+END
+EditStudyFormView.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/4677/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/EditStudyFormView.java
+END
+RadioFieldSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/openxdata/src/main/java/org/openxdata/client/views/RadioFieldSet.java
+END

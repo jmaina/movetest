@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 64
+.classpath
+.project
+.settings
+target
+dependency-reduced-pom.xml
+
+END

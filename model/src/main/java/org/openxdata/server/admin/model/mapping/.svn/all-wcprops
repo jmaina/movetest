@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/server/admin/model/mapping
+END
+UserFormMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/server/admin/model/mapping/UserFormMap.java
+END
+UserReportGroupMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/server/admin/model/mapping/UserReportGroupMap.java
+END
+UserStudyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/server/admin/model/mapping/UserStudyMap.java
+END
+UserReportMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/model/src/main/java/org/openxdata/server/admin/model/mapping/UserReportMap.java
+END

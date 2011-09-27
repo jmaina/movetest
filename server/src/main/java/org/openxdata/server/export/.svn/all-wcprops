@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export
+END
+FormExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/FormExport.java
+END
+CSVDataExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/CSVDataExport.java
+END
+VersionExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/VersionExport.java
+END
+StudyExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/StudyExport.java
+END
+DataExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/DataExport.java
+END
+VersionTextExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/VersionTextExport.java
+END
+ExportConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/ExportConstants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/server/src/main/java/org/openxdata/server/export/package.html
+END

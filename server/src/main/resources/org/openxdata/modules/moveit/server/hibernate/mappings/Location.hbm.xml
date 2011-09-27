@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!--
+    Document   : BirthReport.hbm.xml.xml
+    Created on : July 8, 2011, 11:25 AM
+    Author     : jmaina
+    Description:
+        Purpose of the document follows.
+-->
+
+<hibernate-mapping package="org.openxdata.modules.moveit.server.model">
+  <class name="Location" table="location">
+    <id column="location_id" name="locationId" type="int" unsaved-value="0">
+      <generator class="identity">
+        <param name="sequence">location_event_id</param>
+      </generator>
+    </id>
+    
+    <property column="location_text_name" name="locationTextName" not-null="true" type="java.lang.String"/>
+    <property column="location_coded_name" name="locationCodedName" not-null="true" type="java.lang.String"/>
+    
+  </class>
+</hibernate-mapping>

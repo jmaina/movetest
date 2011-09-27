@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/presenter/uimodel
+END
+SpecStudyUiModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/presenter/uimodel/SpecStudyUiModel.java
+END
+TaskFormUiModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/presenter/uimodel/TaskFormUiModel.java
+END
+AvailableWIRSModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/presenter/uimodel/AvailableWIRSModel.java
+END
+ParamQuestionUiModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/!svn/ver/4075/Server/branches/wf-intergration/openxdata/specStudyMapper/src/main/java/org/openxdata/modules/workflows/client/presenter/uimodel/ParamQuestionUiModel.java
+END

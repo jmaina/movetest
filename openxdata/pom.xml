@@ -325,7 +325,7 @@
                 <version>${gwt-maven.version}</version>
                 <configuration>
                     <modules>
-                        <!--<module>${emit.gwt.module}</module>-->
+                        <module>${emit.gwt.module}</module>
                         <module>${openxdata.gwt.module}</module>
                     </modules>
                     <extraJvmArgs>-Xmx512M -Xss1024k</extraJvmArgs>

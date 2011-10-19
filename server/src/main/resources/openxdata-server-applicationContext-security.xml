@@ -22,6 +22,7 @@
 
     <aop:aspectj-autoproxy />
 	<context:annotation-config /> 
+        <context:component-scan base-package="org.openxdata.modules.moveit.server" />
 	<context:component-scan base-package="org.openxdata.modules.workflows.server" />
         <context:component-scan base-package="org.openxdata.server" />
          

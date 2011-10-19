@@ -18,6 +18,7 @@
     <context:annotation-config />
     <context:component-scan base-package="org.openxdata.server" />
     <context:component-scan base-package="org.openxdata.modules.workflows.server" />
+    <context:component-scan base-package="org.openxdata.modules.moveit.server" />
     <global-method-security secured-annotations="enabled" jsr250-annotations="disabled" access-decision-manager-ref="EMITaccessDecisionManager"/>
 
     <http auto-config="true" realm="Emit" access-decision-manager-ref="accessDecisionManager">
